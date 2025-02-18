@@ -1,0 +1,11 @@
+{
+    "name": "inuchat",
+    "version": "1.0.0",
+    "description": "Paquete NPM generado autom\u00e1ticamente desde WordPress",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "WordPress AutoPublisher",
+    "license": "ISC"
+}
